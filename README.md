@@ -10,3 +10,4 @@ Course materials for Introduction to Neural 3D Reconstruction
 
 # More courses
 * A joint course with PKU https://github.com/megvii-research/megvii-pku-dl-course, [B 站](https://www.bilibili.com/video/BV1E7411t7ay)
+* A joint course with Tsinghua https://github.com/megvii-research/megvii-tsinghua-dl-course, [B 站](https://www.bilibili.com/video/BV1rV411a7xF)
